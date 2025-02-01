@@ -30,7 +30,7 @@ Coffee-Page/
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/PyhtonDeveloperNishu/Coffee-_Menu.git
    ```
 2. Navigate to the project folder:
    ```sh
